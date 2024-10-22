@@ -1,4 +1,6 @@
-# Nmap-Automation-Python-Script
+# Red Team Python Lab
+
+
 Automated port scanning using python-nmap library to scan ports 21-443 on a Virtual Machine.
 
 Used a Kali Linux Attacker VM in conjunction with a Windows Server 2016 VM to scan these ports.
